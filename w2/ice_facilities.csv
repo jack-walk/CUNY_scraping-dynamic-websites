@@ -1,0 +1,481 @@
+facility_name,address,administrative_area,postal_code,image_src
+Adams County Correctional Center,"20 Hobo Forks Road
+Natchez, MS 39120
+United States",MS,39120,https://www.ice.gov/sites/default/files/images/detention/adamscounty.jpg
+Adelanto ICE Processing Center,"Adelanto East 10400 Rancho Road | Adelanto West 10250 Rancho Road
+Adelanto, CA 92301
+United States",CA,92301,https://www.ice.gov/sites/default/files/images/detention/adelantoMain_0.jpg
+Alamance County Detention Center,"109 South Maple Street
+Graham, NC 27253
+United States",NC,27253,https://www.ice.gov/sites/default/files/migrated/images/alamance.png
+Allen Parish Public Safety Complex,"7340 Highway 26 W
+Oberlin, LA 70655
+United States",LA,70655,https://www.ice.gov/sites/default/files/images/detention/allen-parish.jpg
+Anchorage Correctional Complex,"1400 E Fourth Ave
+Anchorage, AK 99501
+United States",AK,99501,https://www.ice.gov/sites/default/files/2025-07/detFacAnchorage.jpg
+Baker County Detention Center,"1 Sheriff's Office Drive
+MacClenny, FL 32063
+United States",FL,32063,https://www.ice.gov/sites/default/files/migrated/images/bakerfl.jpg
+Bluebonnet Detention Facility,"400 2nd Street
+Anson, TX 79501
+United States",TX,79501,https://www.ice.gov/sites/default/files/images/detention/bluebonnet.jpg
+Boone County Jail,"3020 Conrad Lane
+Burlington, KY 41005
+United States",KY,41005,https://www.ice.gov/sites/default/files/images/detention/booneky.jpg
+Brooks County Detention Center,"901 County Road 201
+Falfurrias, TX 78355
+United States",TX,78355,https://www.ice.gov/sites/default/files/2026-09/detFacBrooksCDF.jpg
+Broome County Correctional Facility,"155 Lt. VanWinkle Drive
+Binghamton, NY 13905
+United States",NY,13905,https://www.ice.gov/sites/default/files/2025-11/detFacBroome.jpg
+Broward Transitional Center,"3900 N. Powerline Road
+Pompano Beach, FL 33073
+United States",FL,33073,https://www.ice.gov/sites/default/files/migrated/images/broward.jpg
+Buffalo (Batavia) Service Processing Center,"4250 Federal Drive
+Batavia, NY 14020
+United States",NY,14020,https://www.ice.gov/sites/default/files/images/detention/btv.jpg
+Burleigh County Detention Center,"4000 Apple Creek Road 
+Bismarck, ND 58504
+United States",ND,58504,https://www.ice.gov/doclib/detention/burleighCountyDetentionCenter.png
+Butler County Sheriff’s Office,"705 Hanover Street
+Hamilton, OH 45011
+United States",OH,45011,https://www.ice.gov/sites/default/files/images/detFacButler.png
+Calhoun County Correctional Center,"185 E. Michigan Street
+Battle Creek, MI 49014
+United States",MI,49014,https://www.ice.gov/sites/default/files/images/detention/calhomi.jpg
+California City Detention Facility,"22844 Virginia Boulevard
+California City, CA 93505
+United States",CA,93505,https://www.ice.gov/sites/default/files/2025-08/detFacCalifCity.png
+Campbell County Detention Center,"601 Central Avenue
+Newport, KY 41071
+United States",KY,41071,https://www.ice.gov/sites/default/files/images/detFacCampbellCoKY.jpg
+Caroline Detention Facility,"11093 SW Lewis Memorial Dr
+Bowling Green, VA 22427
+United States",VA,22427,https://www.ice.gov/sites/default/files/images/detention/PCRJBVA_0.jpg
+Cass County Detention Center,"100 Court Park
+Logansport, IN 46947
+United States",IN,46947,https://www.ice.gov/sites/default/files/2026-09/detFacCassCounty.jpg
+Cass County Jail,"303 Avenue A
+Plattsmouth, NE 68048
+United States",NE,68048,https://www.ice.gov/sites/default/files/2026-08/detFacCassCoJail.jpg
+Adams County Correctional Center,"20 Hobo Forks Road
+Natchez, MS 39120
+United States",MS,39120,https://www.ice.gov/sites/default/files/images/detention/adamscounty.jpg
+Adelanto ICE Processing Center,"Adelanto East 10400 Rancho Road | Adelanto West 10250 Rancho Road
+Adelanto, CA 92301
+United States",CA,92301,https://www.ice.gov/sites/default/files/images/detention/adelantoMain_0.jpg
+Alamance County Detention Center,"109 South Maple Street
+Graham, NC 27253
+United States",NC,27253,https://www.ice.gov/sites/default/files/migrated/images/alamance.png
+Allen Parish Public Safety Complex,"7340 Highway 26 W
+Oberlin, LA 70655
+United States",LA,70655,https://www.ice.gov/sites/default/files/images/detention/allen-parish.jpg
+Anchorage Correctional Complex,"1400 E Fourth Ave
+Anchorage, AK 99501
+United States",AK,99501,https://www.ice.gov/sites/default/files/2025-07/detFacAnchorage.jpg
+Baker County Detention Center,"1 Sheriff's Office Drive
+MacClenny, FL 32063
+United States",FL,32063,https://www.ice.gov/sites/default/files/migrated/images/bakerfl.jpg
+Bluebonnet Detention Facility,"400 2nd Street
+Anson, TX 79501
+United States",TX,79501,https://www.ice.gov/sites/default/files/images/detention/bluebonnet.jpg
+Boone County Jail,"3020 Conrad Lane
+Burlington, KY 41005
+United States",KY,41005,https://www.ice.gov/sites/default/files/images/detention/booneky.jpg
+Brooks County Detention Center,"901 County Road 201
+Falfurrias, TX 78355
+United States",TX,78355,https://www.ice.gov/sites/default/files/2026-09/detFacBrooksCDF.jpg
+Broome County Correctional Facility,"155 Lt. VanWinkle Drive
+Binghamton, NY 13905
+United States",NY,13905,https://www.ice.gov/sites/default/files/2025-11/detFacBroome.jpg
+Broward Transitional Center,"3900 N. Powerline Road
+Pompano Beach, FL 33073
+United States",FL,33073,https://www.ice.gov/sites/default/files/migrated/images/broward.jpg
+Buffalo (Batavia) Service Processing Center,"4250 Federal Drive
+Batavia, NY 14020
+United States",NY,14020,https://www.ice.gov/sites/default/files/images/detention/btv.jpg
+Burleigh County Detention Center,"4000 Apple Creek Road 
+Bismarck, ND 58504
+United States",ND,58504,https://www.ice.gov/doclib/detention/burleighCountyDetentionCenter.png
+Butler County Sheriff’s Office,"705 Hanover Street
+Hamilton, OH 45011
+United States",OH,45011,https://www.ice.gov/sites/default/files/images/detFacButler.png
+Calhoun County Correctional Center,"185 E. Michigan Street
+Battle Creek, MI 49014
+United States",MI,49014,https://www.ice.gov/sites/default/files/images/detention/calhomi.jpg
+California City Detention Facility,"22844 Virginia Boulevard
+California City, CA 93505
+United States",CA,93505,https://www.ice.gov/sites/default/files/2025-08/detFacCalifCity.png
+Campbell County Detention Center,"601 Central Avenue
+Newport, KY 41071
+United States",KY,41071,https://www.ice.gov/sites/default/files/images/detFacCampbellCoKY.jpg
+Caroline Detention Facility,"11093 SW Lewis Memorial Dr
+Bowling Green, VA 22427
+United States",VA,22427,https://www.ice.gov/sites/default/files/images/detention/PCRJBVA_0.jpg
+Cass County Detention Center,"100 Court Park
+Logansport, IN 46947
+United States",IN,46947,https://www.ice.gov/sites/default/files/2026-09/detFacCassCounty.jpg
+Cass County Jail,"303 Avenue A
+Plattsmouth, NE 68048
+United States",NE,68048,https://www.ice.gov/sites/default/files/2026-08/detFacCassCoJail.jpg
+Adams County Correctional Center,"20 Hobo Forks Road
+Natchez, MS 39120
+United States",MS,39120,https://www.ice.gov/sites/default/files/images/detention/adamscounty.jpg
+Adelanto ICE Processing Center,"Adelanto East 10400 Rancho Road | Adelanto West 10250 Rancho Road
+Adelanto, CA 92301
+United States",CA,92301,https://www.ice.gov/sites/default/files/images/detention/adelantoMain_0.jpg
+Alamance County Detention Center,"109 South Maple Street
+Graham, NC 27253
+United States",NC,27253,https://www.ice.gov/sites/default/files/migrated/images/alamance.png
+Allen Parish Public Safety Complex,"7340 Highway 26 W
+Oberlin, LA 70655
+United States",LA,70655,https://www.ice.gov/sites/default/files/images/detention/allen-parish.jpg
+Anchorage Correctional Complex,"1400 E Fourth Ave
+Anchorage, AK 99501
+United States",AK,99501,https://www.ice.gov/sites/default/files/2025-07/detFacAnchorage.jpg
+Baker County Detention Center,"1 Sheriff's Office Drive
+MacClenny, FL 32063
+United States",FL,32063,https://www.ice.gov/sites/default/files/migrated/images/bakerfl.jpg
+Bluebonnet Detention Facility,"400 2nd Street
+Anson, TX 79501
+United States",TX,79501,https://www.ice.gov/sites/default/files/images/detention/bluebonnet.jpg
+Boone County Jail,"3020 Conrad Lane
+Burlington, KY 41005
+United States",KY,41005,https://www.ice.gov/sites/default/files/images/detention/booneky.jpg
+Brooks County Detention Center,"901 County Road 201
+Falfurrias, TX 78355
+United States",TX,78355,https://www.ice.gov/sites/default/files/2026-09/detFacBrooksCDF.jpg
+Broome County Correctional Facility,"155 Lt. VanWinkle Drive
+Binghamton, NY 13905
+United States",NY,13905,https://www.ice.gov/sites/default/files/2025-11/detFacBroome.jpg
+Broward Transitional Center,"3900 N. Powerline Road
+Pompano Beach, FL 33073
+United States",FL,33073,https://www.ice.gov/sites/default/files/migrated/images/broward.jpg
+Buffalo (Batavia) Service Processing Center,"4250 Federal Drive
+Batavia, NY 14020
+United States",NY,14020,https://www.ice.gov/sites/default/files/images/detention/btv.jpg
+Burleigh County Detention Center,"4000 Apple Creek Road 
+Bismarck, ND 58504
+United States",ND,58504,https://www.ice.gov/doclib/detention/burleighCountyDetentionCenter.png
+Butler County Sheriff’s Office,"705 Hanover Street
+Hamilton, OH 45011
+United States",OH,45011,https://www.ice.gov/sites/default/files/images/detFacButler.png
+Calhoun County Correctional Center,"185 E. Michigan Street
+Battle Creek, MI 49014
+United States",MI,49014,https://www.ice.gov/sites/default/files/images/detention/calhomi.jpg
+California City Detention Facility,"22844 Virginia Boulevard
+California City, CA 93505
+United States",CA,93505,https://www.ice.gov/sites/default/files/2025-08/detFacCalifCity.png
+Campbell County Detention Center,"601 Central Avenue
+Newport, KY 41071
+United States",KY,41071,https://www.ice.gov/sites/default/files/images/detFacCampbellCoKY.jpg
+Caroline Detention Facility,"11093 SW Lewis Memorial Dr
+Bowling Green, VA 22427
+United States",VA,22427,https://www.ice.gov/sites/default/files/images/detention/PCRJBVA_0.jpg
+Cass County Detention Center,"100 Court Park
+Logansport, IN 46947
+United States",IN,46947,https://www.ice.gov/sites/default/files/2026-09/detFacCassCounty.jpg
+Cass County Jail,"303 Avenue A
+Plattsmouth, NE 68048
+United States",NE,68048,https://www.ice.gov/sites/default/files/2026-08/detFacCassCoJail.jpg
+Adams County Correctional Center,"20 Hobo Forks Road
+Natchez, MS 39120
+United States",MS,39120,https://www.ice.gov/sites/default/files/images/detention/adamscounty.jpg
+Adelanto ICE Processing Center,"Adelanto East 10400 Rancho Road | Adelanto West 10250 Rancho Road
+Adelanto, CA 92301
+United States",CA,92301,https://www.ice.gov/sites/default/files/images/detention/adelantoMain_0.jpg
+Alamance County Detention Center,"109 South Maple Street
+Graham, NC 27253
+United States",NC,27253,https://www.ice.gov/sites/default/files/migrated/images/alamance.png
+Allen Parish Public Safety Complex,"7340 Highway 26 W
+Oberlin, LA 70655
+United States",LA,70655,https://www.ice.gov/sites/default/files/images/detention/allen-parish.jpg
+Anchorage Correctional Complex,"1400 E Fourth Ave
+Anchorage, AK 99501
+United States",AK,99501,https://www.ice.gov/sites/default/files/2025-07/detFacAnchorage.jpg
+Baker County Detention Center,"1 Sheriff's Office Drive
+MacClenny, FL 32063
+United States",FL,32063,https://www.ice.gov/sites/default/files/migrated/images/bakerfl.jpg
+Bluebonnet Detention Facility,"400 2nd Street
+Anson, TX 79501
+United States",TX,79501,https://www.ice.gov/sites/default/files/images/detention/bluebonnet.jpg
+Boone County Jail,"3020 Conrad Lane
+Burlington, KY 41005
+United States",KY,41005,https://www.ice.gov/sites/default/files/images/detention/booneky.jpg
+Brooks County Detention Center,"901 County Road 201
+Falfurrias, TX 78355
+United States",TX,78355,https://www.ice.gov/sites/default/files/2026-09/detFacBrooksCDF.jpg
+Broome County Correctional Facility,"155 Lt. VanWinkle Drive
+Binghamton, NY 13905
+United States",NY,13905,https://www.ice.gov/sites/default/files/2025-11/detFacBroome.jpg
+Broward Transitional Center,"3900 N. Powerline Road
+Pompano Beach, FL 33073
+United States",FL,33073,https://www.ice.gov/sites/default/files/migrated/images/broward.jpg
+Buffalo (Batavia) Service Processing Center,"4250 Federal Drive
+Batavia, NY 14020
+United States",NY,14020,https://www.ice.gov/sites/default/files/images/detention/btv.jpg
+Burleigh County Detention Center,"4000 Apple Creek Road 
+Bismarck, ND 58504
+United States",ND,58504,https://www.ice.gov/doclib/detention/burleighCountyDetentionCenter.png
+Butler County Sheriff’s Office,"705 Hanover Street
+Hamilton, OH 45011
+United States",OH,45011,https://www.ice.gov/sites/default/files/images/detFacButler.png
+Calhoun County Correctional Center,"185 E. Michigan Street
+Battle Creek, MI 49014
+United States",MI,49014,https://www.ice.gov/sites/default/files/images/detention/calhomi.jpg
+California City Detention Facility,"22844 Virginia Boulevard
+California City, CA 93505
+United States",CA,93505,https://www.ice.gov/sites/default/files/2025-08/detFacCalifCity.png
+Campbell County Detention Center,"601 Central Avenue
+Newport, KY 41071
+United States",KY,41071,https://www.ice.gov/sites/default/files/images/detFacCampbellCoKY.jpg
+Caroline Detention Facility,"11093 SW Lewis Memorial Dr
+Bowling Green, VA 22427
+United States",VA,22427,https://www.ice.gov/sites/default/files/images/detention/PCRJBVA_0.jpg
+Cass County Detention Center,"100 Court Park
+Logansport, IN 46947
+United States",IN,46947,https://www.ice.gov/sites/default/files/2026-09/detFacCassCounty.jpg
+Cass County Jail,"303 Avenue A
+Plattsmouth, NE 68048
+United States",NE,68048,https://www.ice.gov/sites/default/files/2026-08/detFacCassCoJail.jpg
+Adams County Correctional Center,"20 Hobo Forks Road
+Natchez, MS 39120
+United States",MS,39120,https://www.ice.gov/sites/default/files/images/detention/adamscounty.jpg
+Adelanto ICE Processing Center,"Adelanto East 10400 Rancho Road | Adelanto West 10250 Rancho Road
+Adelanto, CA 92301
+United States",CA,92301,https://www.ice.gov/sites/default/files/images/detention/adelantoMain_0.jpg
+Alamance County Detention Center,"109 South Maple Street
+Graham, NC 27253
+United States",NC,27253,https://www.ice.gov/sites/default/files/migrated/images/alamance.png
+Allen Parish Public Safety Complex,"7340 Highway 26 W
+Oberlin, LA 70655
+United States",LA,70655,https://www.ice.gov/sites/default/files/images/detention/allen-parish.jpg
+Anchorage Correctional Complex,"1400 E Fourth Ave
+Anchorage, AK 99501
+United States",AK,99501,https://www.ice.gov/sites/default/files/2025-07/detFacAnchorage.jpg
+Baker County Detention Center,"1 Sheriff's Office Drive
+MacClenny, FL 32063
+United States",FL,32063,https://www.ice.gov/sites/default/files/migrated/images/bakerfl.jpg
+Bluebonnet Detention Facility,"400 2nd Street
+Anson, TX 79501
+United States",TX,79501,https://www.ice.gov/sites/default/files/images/detention/bluebonnet.jpg
+Boone County Jail,"3020 Conrad Lane
+Burlington, KY 41005
+United States",KY,41005,https://www.ice.gov/sites/default/files/images/detention/booneky.jpg
+Brooks County Detention Center,"901 County Road 201
+Falfurrias, TX 78355
+United States",TX,78355,https://www.ice.gov/sites/default/files/2026-09/detFacBrooksCDF.jpg
+Broome County Correctional Facility,"155 Lt. VanWinkle Drive
+Binghamton, NY 13905
+United States",NY,13905,https://www.ice.gov/sites/default/files/2025-11/detFacBroome.jpg
+Broward Transitional Center,"3900 N. Powerline Road
+Pompano Beach, FL 33073
+United States",FL,33073,https://www.ice.gov/sites/default/files/migrated/images/broward.jpg
+Buffalo (Batavia) Service Processing Center,"4250 Federal Drive
+Batavia, NY 14020
+United States",NY,14020,https://www.ice.gov/sites/default/files/images/detention/btv.jpg
+Burleigh County Detention Center,"4000 Apple Creek Road 
+Bismarck, ND 58504
+United States",ND,58504,https://www.ice.gov/doclib/detention/burleighCountyDetentionCenter.png
+Butler County Sheriff’s Office,"705 Hanover Street
+Hamilton, OH 45011
+United States",OH,45011,https://www.ice.gov/sites/default/files/images/detFacButler.png
+Calhoun County Correctional Center,"185 E. Michigan Street
+Battle Creek, MI 49014
+United States",MI,49014,https://www.ice.gov/sites/default/files/images/detention/calhomi.jpg
+California City Detention Facility,"22844 Virginia Boulevard
+California City, CA 93505
+United States",CA,93505,https://www.ice.gov/sites/default/files/2025-08/detFacCalifCity.png
+Campbell County Detention Center,"601 Central Avenue
+Newport, KY 41071
+United States",KY,41071,https://www.ice.gov/sites/default/files/images/detFacCampbellCoKY.jpg
+Caroline Detention Facility,"11093 SW Lewis Memorial Dr
+Bowling Green, VA 22427
+United States",VA,22427,https://www.ice.gov/sites/default/files/images/detention/PCRJBVA_0.jpg
+Cass County Detention Center,"100 Court Park
+Logansport, IN 46947
+United States",IN,46947,https://www.ice.gov/sites/default/files/2026-09/detFacCassCounty.jpg
+Cass County Jail,"303 Avenue A
+Plattsmouth, NE 68048
+United States",NE,68048,https://www.ice.gov/sites/default/files/2026-08/detFacCassCoJail.jpg
+Adams County Correctional Center,"20 Hobo Forks Road
+Natchez, MS 39120
+United States",MS,39120,https://www.ice.gov/sites/default/files/images/detention/adamscounty.jpg
+Adelanto ICE Processing Center,"Adelanto East 10400 Rancho Road | Adelanto West 10250 Rancho Road
+Adelanto, CA 92301
+United States",CA,92301,https://www.ice.gov/sites/default/files/images/detention/adelantoMain_0.jpg
+Alamance County Detention Center,"109 South Maple Street
+Graham, NC 27253
+United States",NC,27253,https://www.ice.gov/sites/default/files/migrated/images/alamance.png
+Allen Parish Public Safety Complex,"7340 Highway 26 W
+Oberlin, LA 70655
+United States",LA,70655,https://www.ice.gov/sites/default/files/images/detention/allen-parish.jpg
+Anchorage Correctional Complex,"1400 E Fourth Ave
+Anchorage, AK 99501
+United States",AK,99501,https://www.ice.gov/sites/default/files/2025-07/detFacAnchorage.jpg
+Baker County Detention Center,"1 Sheriff's Office Drive
+MacClenny, FL 32063
+United States",FL,32063,https://www.ice.gov/sites/default/files/migrated/images/bakerfl.jpg
+Bluebonnet Detention Facility,"400 2nd Street
+Anson, TX 79501
+United States",TX,79501,https://www.ice.gov/sites/default/files/images/detention/bluebonnet.jpg
+Boone County Jail,"3020 Conrad Lane
+Burlington, KY 41005
+United States",KY,41005,https://www.ice.gov/sites/default/files/images/detention/booneky.jpg
+Brooks County Detention Center,"901 County Road 201
+Falfurrias, TX 78355
+United States",TX,78355,https://www.ice.gov/sites/default/files/2026-09/detFacBrooksCDF.jpg
+Broome County Correctional Facility,"155 Lt. VanWinkle Drive
+Binghamton, NY 13905
+United States",NY,13905,https://www.ice.gov/sites/default/files/2025-11/detFacBroome.jpg
+Broward Transitional Center,"3900 N. Powerline Road
+Pompano Beach, FL 33073
+United States",FL,33073,https://www.ice.gov/sites/default/files/migrated/images/broward.jpg
+Buffalo (Batavia) Service Processing Center,"4250 Federal Drive
+Batavia, NY 14020
+United States",NY,14020,https://www.ice.gov/sites/default/files/images/detention/btv.jpg
+Burleigh County Detention Center,"4000 Apple Creek Road 
+Bismarck, ND 58504
+United States",ND,58504,https://www.ice.gov/doclib/detention/burleighCountyDetentionCenter.png
+Butler County Sheriff’s Office,"705 Hanover Street
+Hamilton, OH 45011
+United States",OH,45011,https://www.ice.gov/sites/default/files/images/detFacButler.png
+Calhoun County Correctional Center,"185 E. Michigan Street
+Battle Creek, MI 49014
+United States",MI,49014,https://www.ice.gov/sites/default/files/images/detention/calhomi.jpg
+California City Detention Facility,"22844 Virginia Boulevard
+California City, CA 93505
+United States",CA,93505,https://www.ice.gov/sites/default/files/2025-08/detFacCalifCity.png
+Campbell County Detention Center,"601 Central Avenue
+Newport, KY 41071
+United States",KY,41071,https://www.ice.gov/sites/default/files/images/detFacCampbellCoKY.jpg
+Caroline Detention Facility,"11093 SW Lewis Memorial Dr
+Bowling Green, VA 22427
+United States",VA,22427,https://www.ice.gov/sites/default/files/images/detention/PCRJBVA_0.jpg
+Cass County Detention Center,"100 Court Park
+Logansport, IN 46947
+United States",IN,46947,https://www.ice.gov/sites/default/files/2026-09/detFacCassCounty.jpg
+Cass County Jail,"303 Avenue A
+Plattsmouth, NE 68048
+United States",NE,68048,https://www.ice.gov/sites/default/files/2026-08/detFacCassCoJail.jpg
+Adams County Correctional Center,"20 Hobo Forks Road
+Natchez, MS 39120
+United States",MS,39120,https://www.ice.gov/sites/default/files/images/detention/adamscounty.jpg
+Adelanto ICE Processing Center,"Adelanto East 10400 Rancho Road | Adelanto West 10250 Rancho Road
+Adelanto, CA 92301
+United States",CA,92301,https://www.ice.gov/sites/default/files/images/detention/adelantoMain_0.jpg
+Alamance County Detention Center,"109 South Maple Street
+Graham, NC 27253
+United States",NC,27253,https://www.ice.gov/sites/default/files/migrated/images/alamance.png
+Allen Parish Public Safety Complex,"7340 Highway 26 W
+Oberlin, LA 70655
+United States",LA,70655,https://www.ice.gov/sites/default/files/images/detention/allen-parish.jpg
+Anchorage Correctional Complex,"1400 E Fourth Ave
+Anchorage, AK 99501
+United States",AK,99501,https://www.ice.gov/sites/default/files/2025-07/detFacAnchorage.jpg
+Baker County Detention Center,"1 Sheriff's Office Drive
+MacClenny, FL 32063
+United States",FL,32063,https://www.ice.gov/sites/default/files/migrated/images/bakerfl.jpg
+Bluebonnet Detention Facility,"400 2nd Street
+Anson, TX 79501
+United States",TX,79501,https://www.ice.gov/sites/default/files/images/detention/bluebonnet.jpg
+Boone County Jail,"3020 Conrad Lane
+Burlington, KY 41005
+United States",KY,41005,https://www.ice.gov/sites/default/files/images/detention/booneky.jpg
+Brooks County Detention Center,"901 County Road 201
+Falfurrias, TX 78355
+United States",TX,78355,https://www.ice.gov/sites/default/files/2026-09/detFacBrooksCDF.jpg
+Broome County Correctional Facility,"155 Lt. VanWinkle Drive
+Binghamton, NY 13905
+United States",NY,13905,https://www.ice.gov/sites/default/files/2025-11/detFacBroome.jpg
+Broward Transitional Center,"3900 N. Powerline Road
+Pompano Beach, FL 33073
+United States",FL,33073,https://www.ice.gov/sites/default/files/migrated/images/broward.jpg
+Buffalo (Batavia) Service Processing Center,"4250 Federal Drive
+Batavia, NY 14020
+United States",NY,14020,https://www.ice.gov/sites/default/files/images/detention/btv.jpg
+Burleigh County Detention Center,"4000 Apple Creek Road 
+Bismarck, ND 58504
+United States",ND,58504,https://www.ice.gov/doclib/detention/burleighCountyDetentionCenter.png
+Butler County Sheriff’s Office,"705 Hanover Street
+Hamilton, OH 45011
+United States",OH,45011,https://www.ice.gov/sites/default/files/images/detFacButler.png
+Calhoun County Correctional Center,"185 E. Michigan Street
+Battle Creek, MI 49014
+United States",MI,49014,https://www.ice.gov/sites/default/files/images/detention/calhomi.jpg
+California City Detention Facility,"22844 Virginia Boulevard
+California City, CA 93505
+United States",CA,93505,https://www.ice.gov/sites/default/files/2025-08/detFacCalifCity.png
+Campbell County Detention Center,"601 Central Avenue
+Newport, KY 41071
+United States",KY,41071,https://www.ice.gov/sites/default/files/images/detFacCampbellCoKY.jpg
+Caroline Detention Facility,"11093 SW Lewis Memorial Dr
+Bowling Green, VA 22427
+United States",VA,22427,https://www.ice.gov/sites/default/files/images/detention/PCRJBVA_0.jpg
+Cass County Detention Center,"100 Court Park
+Logansport, IN 46947
+United States",IN,46947,https://www.ice.gov/sites/default/files/2026-09/detFacCassCounty.jpg
+Cass County Jail,"303 Avenue A
+Plattsmouth, NE 68048
+United States",NE,68048,https://www.ice.gov/sites/default/files/2026-08/detFacCassCoJail.jpg
+Adams County Correctional Center,"20 Hobo Forks Road
+Natchez, MS 39120
+United States",MS,39120,https://www.ice.gov/sites/default/files/images/detention/adamscounty.jpg
+Adelanto ICE Processing Center,"Adelanto East 10400 Rancho Road | Adelanto West 10250 Rancho Road
+Adelanto, CA 92301
+United States",CA,92301,https://www.ice.gov/sites/default/files/images/detention/adelantoMain_0.jpg
+Alamance County Detention Center,"109 South Maple Street
+Graham, NC 27253
+United States",NC,27253,https://www.ice.gov/sites/default/files/migrated/images/alamance.png
+Allen Parish Public Safety Complex,"7340 Highway 26 W
+Oberlin, LA 70655
+United States",LA,70655,https://www.ice.gov/sites/default/files/images/detention/allen-parish.jpg
+Anchorage Correctional Complex,"1400 E Fourth Ave
+Anchorage, AK 99501
+United States",AK,99501,https://www.ice.gov/sites/default/files/2025-07/detFacAnchorage.jpg
+Baker County Detention Center,"1 Sheriff's Office Drive
+MacClenny, FL 32063
+United States",FL,32063,https://www.ice.gov/sites/default/files/migrated/images/bakerfl.jpg
+Bluebonnet Detention Facility,"400 2nd Street
+Anson, TX 79501
+United States",TX,79501,https://www.ice.gov/sites/default/files/images/detention/bluebonnet.jpg
+Boone County Jail,"3020 Conrad Lane
+Burlington, KY 41005
+United States",KY,41005,https://www.ice.gov/sites/default/files/images/detention/booneky.jpg
+Brooks County Detention Center,"901 County Road 201
+Falfurrias, TX 78355
+United States",TX,78355,https://www.ice.gov/sites/default/files/2026-09/detFacBrooksCDF.jpg
+Broome County Correctional Facility,"155 Lt. VanWinkle Drive
+Binghamton, NY 13905
+United States",NY,13905,https://www.ice.gov/sites/default/files/2025-11/detFacBroome.jpg
+Broward Transitional Center,"3900 N. Powerline Road
+Pompano Beach, FL 33073
+United States",FL,33073,https://www.ice.gov/sites/default/files/migrated/images/broward.jpg
+Buffalo (Batavia) Service Processing Center,"4250 Federal Drive
+Batavia, NY 14020
+United States",NY,14020,https://www.ice.gov/sites/default/files/images/detention/btv.jpg
+Burleigh County Detention Center,"4000 Apple Creek Road 
+Bismarck, ND 58504
+United States",ND,58504,https://www.ice.gov/doclib/detention/burleighCountyDetentionCenter.png
+Butler County Sheriff’s Office,"705 Hanover Street
+Hamilton, OH 45011
+United States",OH,45011,https://www.ice.gov/sites/default/files/images/detFacButler.png
+Calhoun County Correctional Center,"185 E. Michigan Street
+Battle Creek, MI 49014
+United States",MI,49014,https://www.ice.gov/sites/default/files/images/detention/calhomi.jpg
+California City Detention Facility,"22844 Virginia Boulevard
+California City, CA 93505
+United States",CA,93505,https://www.ice.gov/sites/default/files/2025-08/detFacCalifCity.png
+Campbell County Detention Center,"601 Central Avenue
+Newport, KY 41071
+United States",KY,41071,https://www.ice.gov/sites/default/files/images/detFacCampbellCoKY.jpg
+Caroline Detention Facility,"11093 SW Lewis Memorial Dr
+Bowling Green, VA 22427
+United States",VA,22427,https://www.ice.gov/sites/default/files/images/detention/PCRJBVA_0.jpg
+Cass County Detention Center,"100 Court Park
+Logansport, IN 46947
+United States",IN,46947,https://www.ice.gov/sites/default/files/2026-09/detFacCassCounty.jpg
+Cass County Jail,"303 Avenue A
+Plattsmouth, NE 68048
+United States",NE,68048,https://www.ice.gov/sites/default/files/2026-08/detFacCassCoJail.jpg
